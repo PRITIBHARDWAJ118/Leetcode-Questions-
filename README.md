@@ -36,4 +36,16 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
