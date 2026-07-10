@@ -8,6 +8,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
