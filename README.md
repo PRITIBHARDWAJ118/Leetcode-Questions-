@@ -14,6 +14,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0203-remove-linked-list-elements](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0237-delete-node-in-a-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
