@@ -65,4 +65,8 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0061-rotate-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
