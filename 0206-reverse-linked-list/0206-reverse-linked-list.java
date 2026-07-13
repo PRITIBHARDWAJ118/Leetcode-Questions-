@@ -9,27 +9,22 @@
  * }
  */
 class Solution {
-    public ListNode reverseList(ListNode head) {
+   public ListNode reverseList(ListNode head) {
 
-        ArrayList<Integer> list = new ArrayList<>();
+    ListNode prev = null;
+    ListNode curr = head;
 
-        ListNode temp = head;
+    while (curr != null) {
 
-        // Store values in ArrayList
-        while(temp != null){
-            list.add(temp.val);
-            temp = temp.next;
-        }
+        ListNode next = curr.next; // Save next node
 
-        // Create reversed linked list
-        ListNode dummy = new ListNode(0);
-        ListNode curr = dummy;
+        curr.next = prev;          // Reverse link
 
-        for(int i = list.size() - 1; i >= 0; i--){
-            curr.next = new ListNode(list.get(i));
-            curr = curr.next;
-        }
+        prev = curr;               // Move prev
 
-        return dummy.next;
+        curr = next;               // Move curr
     }
+
+    return prev;
+}
 }
