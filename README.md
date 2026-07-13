@@ -10,6 +10,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0203-remove-linked-list-elements) |
