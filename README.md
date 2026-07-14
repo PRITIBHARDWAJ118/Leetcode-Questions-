@@ -37,6 +37,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -84,6 +85,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
