@@ -17,6 +17,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0206-reverse-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
@@ -92,4 +93,12 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
