@@ -40,6 +40,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0013-roman-to-integer](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0067-add-binary) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +89,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
