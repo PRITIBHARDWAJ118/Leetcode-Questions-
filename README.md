@@ -19,6 +19,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0237-delete-node-in-a-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0203-remove-linked-list-elements](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -93,6 +95,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0234-palindrome-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,4 +113,8 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
