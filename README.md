@@ -70,6 +70,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -90,6 +91,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0015-3sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -137,6 +139,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0088-merge-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
