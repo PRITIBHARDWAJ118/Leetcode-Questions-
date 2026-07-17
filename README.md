@@ -69,6 +69,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0015-3sum) |
 | [0682-baseball-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -86,6 +87,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0141-linked-list-cycle) |
@@ -134,6 +136,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0015-3sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
