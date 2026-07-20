@@ -58,6 +58,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | ------- |
 | [0067-add-binary](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -75,6 +76,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0088-merge-sorted-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0090-subsets-ii) |
 | [0682-baseball-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -162,4 +164,8 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
