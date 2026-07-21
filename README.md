@@ -48,6 +48,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0151-reverse-words-in-a-string](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0151-reverse-words-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1768-merge-strings-alternately) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +111,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
