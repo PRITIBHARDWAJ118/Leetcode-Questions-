@@ -31,6 +31,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -159,6 +160,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | ------- |
 | [0015-3sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0088-merge-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
