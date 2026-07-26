@@ -31,9 +31,7 @@ class Solution {
             }
         }
 
-        // The maximum product can be either:
-        // 1. The product of the three largest numbers
-        // 2. The product of the two smallest numbers (if negative) and the largest number
+       
         return Math.max(max1 * max2 * max3, min1 * min2 * max1);
     }
 }
