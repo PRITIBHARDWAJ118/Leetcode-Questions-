@@ -189,4 +189,8 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
