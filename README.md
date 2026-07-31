@@ -55,6 +55,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -80,6 +81,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0013-roman-to-integer](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
@@ -171,6 +173,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0088-merge-sorted-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -182,6 +185,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
@@ -222,4 +226,5 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
