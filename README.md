@@ -26,6 +26,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0002-add-two-numbers](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0067-add-binary) |
+| [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -44,6 +45,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0203-remove-linked-list-elements](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
@@ -91,6 +93,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0015-3sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0090-subsets-ii) |
+| [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1260-shift-2d-grid) |
@@ -145,6 +148,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -229,4 +233,8 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
