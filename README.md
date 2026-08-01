@@ -213,6 +213,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [1068-product-sales-analysis-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1757-recyclable-and-low-fat-products) |
 ## Heap (Priority Queue)
