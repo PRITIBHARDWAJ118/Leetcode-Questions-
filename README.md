@@ -167,6 +167,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3310-remove-methods-from-project](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3310-remove-methods-from-project) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -244,4 +245,12 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | ------- |
 | [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0877-stone-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
