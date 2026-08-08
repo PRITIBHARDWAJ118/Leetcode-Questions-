@@ -61,6 +61,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [1768-merge-strings-alternately](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -137,6 +138,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -158,6 +160,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | ------- |
 | [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -246,6 +249,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
