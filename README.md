@@ -30,6 +30,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0628-maximum-product-of-three-numbers](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -163,6 +164,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -261,6 +263,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1510-stone-game-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,8 +276,18 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
