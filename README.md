@@ -28,6 +28,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0067-add-binary](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0877-stone-game) |
@@ -54,6 +55,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0231-power-of-two](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
@@ -79,6 +81,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0067-add-binary](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
