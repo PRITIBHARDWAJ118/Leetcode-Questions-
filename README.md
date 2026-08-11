@@ -90,6 +90,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0013-roman-to-integer](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -110,6 +111,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -196,6 +198,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0088-merge-sorted-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3536-maximum-product-of-two-digits) |
