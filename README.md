@@ -27,6 +27,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0013-roman-to-integer](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0877-stone-game) |
@@ -52,6 +53,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0206-reverse-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
