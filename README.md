@@ -98,6 +98,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0013-roman-to-integer](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0160-intersection-of-two-linked-lists) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -119,6 +120,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -302,4 +304,8 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
