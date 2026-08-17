@@ -34,6 +34,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0877-stone-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -122,6 +123,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [1140-stone-game-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -183,6 +185,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0877-stone-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -288,6 +291,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0877-stone-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1563-stone-game-v) |
 ## Breadth-First Search
 |  |
 | ------- |
