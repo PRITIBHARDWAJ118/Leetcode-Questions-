@@ -95,6 +95,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [0682-baseball-game](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3501-maximize-active-section-with-trade-ii) |
