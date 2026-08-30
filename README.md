@@ -132,6 +132,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -296,6 +297,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
