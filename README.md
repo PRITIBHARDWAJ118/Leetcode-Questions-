@@ -92,6 +92,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -114,6 +115,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3731-find-missing-elements) |
 ## Array
@@ -144,6 +146,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -265,6 +268,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
 |  |
 | ------- |
@@ -315,6 +319,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
