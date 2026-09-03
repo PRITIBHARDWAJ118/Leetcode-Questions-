@@ -48,6 +48,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [3536-maximum-product-of-two-digits](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +151,7 @@ One LeetCode problem a day—tracking my journey to master DSA and crack coding 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PRITIBHARDWAJ118/Leetcode-Questions-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
